@@ -1,4 +1,4 @@
-# Taller 3 – Framework Web Concurrente en Java
+# Taller 4 – Modularización con virtualización e Introducción a Docker
 
 Este proyecto implementa un **servidor web minimalista en Java puro**, capaz de atender solicitudes HTTP, servir archivos estáticos y manejar rutas dinámicas con handlers definidos por el usuario.  
 El servidor fue extendido para soportar **concurrencia** y un **apagado elegante**, y se desplegó en AWS utilizando **Docker y EC2**.
